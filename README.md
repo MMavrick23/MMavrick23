@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MMavrick23/MMavrick23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://wakatime.com/@c9182ebd-801b-4557-95b0-f08284497c11"><img src="https://wakatime.com/badge/user/c9182ebd-801b-4557-95b0-f08284497c11.svg" alt="Total time coded since May 21 2022" /></a>
