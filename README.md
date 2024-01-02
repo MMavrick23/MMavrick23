@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://wakatime.com/@c9182ebd-801b-4557-95b0-f08284497c11"><img src="https://wakatime.com/badge/user/c9182ebd-801b-4557-95b0-f08284497c11.svg" alt="Total time coded since May 21 2022" /></a>
+
