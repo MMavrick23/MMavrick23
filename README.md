@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 
+[![wakatime](https://wakatime.com/badge/user/c9182ebd-801b-4557-95b0-f08284497c11.svg)](https://wakatime.com/@c9182ebd-801b-4557-95b0-f08284497c11)
